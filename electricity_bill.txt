@@ -1,0 +1,3 @@
+unit=int(input("Please enter your obtained unit:"))
+taka=unit*5.26
+print("Your Bill is",taka,"taka")
